@@ -3,4 +3,4 @@
 git pull origin main
 
 sleep 30
-echo foo
+echo bar
